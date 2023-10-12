@@ -1,5 +1,8 @@
 Hi, I'm Prathamesh Patil, Data Scientist/Analyst
-Welcome to my GitHub page! I'm a data scientist/analyst passionate about using data to drive insights and tell compelling stories. On this page you'll find code repositories and analytics projects from my work.
+
+Welcome to my GitHub page! 
+
+I'm a data scientist/analyst passionate about using data to drive insights and tell compelling stories. On this page you'll find code repositories and analytics projects from my work.
 
 About Me
 - Graduated with Master's in Information Management from University of Illinois at Urbana Champaign
