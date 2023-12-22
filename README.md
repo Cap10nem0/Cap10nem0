@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PySpark, dbt, Airflow & Snowflake**
 
-- 👨‍💻 Most of my projects are available on my [Portfolio Website](https://pprathamesh2508.carrd.co/||blank)
+- 👨‍💻 Most of my projects are available on my [Portfolio Website](https://pprathamesh2508.carrd.co/)
 
 - 📫 You can reach me at **pprathamesh2508@gmail.com**
 
@@ -31,13 +31,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  Cloud :
-  <div>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="50" height="50"/>
-    </a>
-  </div>
-  
   Programming Languages:
   <div>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -46,15 +39,10 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
     </a>
-  </div>
-
-  <div>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+    <a href="https://rstudio-education.github.io/hopr/starting.html" target="_blank" rel="noreferrer">
+      <img src="https://www.r-project.org/logo/Rlogo.svg" alt="r" width="50" height="50"/>
     </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
-    </a>
+	  
   </div>
   
   Databases:
@@ -84,22 +72,29 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="50" height="50"/>
     </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-    </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
     </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="50" height="50"/>
+    </a>
+    <a href="https://getlogovector.com/plotly-logo-vector-svg/" target="_blank" rel="noreferrer">
+      <img src="https://getlogovector.com/wp-content/uploads/2020/09/plotly-logo-vector.png" alt="plotly" width="50" height="50"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+    </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
     </a>
   </div>
+  
   BI Tools:
   <div>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
@@ -115,6 +110,24 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" alt="alteryx" width="50" height="50"/>
     </a>
   </div>
+  
+  Cloud :
+  <div>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="50" height="50"/>
+    </a>
+  </div>
+
+  Other Tools:
+  <div>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
+    </a>
+  </div>
+  
 </p>
 
 	
