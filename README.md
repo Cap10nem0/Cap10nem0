@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PySpark, dbt, Airflow & Snowflake**
 
-- 👨‍💻 Most of my projects are available on my [Portfolio Website](https://pprathamesh2508.carrd.co/)
+- 👨‍💻 Most of my projects are available on my [Portfolio Website](https://pprathamesh2508.carrd.co/||blank)
 
 - 📫 You can reach me at **pprathamesh2508@gmail.com**
 
